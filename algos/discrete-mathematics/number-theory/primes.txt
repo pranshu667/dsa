@@ -1,0 +1,2 @@
+1.if n is a composite number,then n has a prime factor less than or equal to sqrt(n)
+2.if a number has a prime factor p,then n/p can not have a prime factor less than p
